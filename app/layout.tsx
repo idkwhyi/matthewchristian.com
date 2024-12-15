@@ -40,6 +40,11 @@ export const metadata: Metadata = {
   icons: {
     shortcut: "/webicon.png",
   },
+  keywords: [
+    "Matthew Christian Susanto",
+    "Matthew Christian Susanto Esa Unggul",
+    "Matthew Christian",
+  ]
 };
 const inter = Inter({
   subsets: ["latin"],
