@@ -6,19 +6,19 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "Matthew Christian",
-    template: "%s | chronark.com",
+    default: "Matthew Christian Susanto",
+    template: "%s | Matthew Christian Susanto",
   },
   description: "Esa Unggul University Third Year Student",
   openGraph: {
-    title: "chronark.com",
+    title: "Matthew Christian Susanto",
     description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
+      "Third year software engineer university student",
+    url: "https://matthewchristian.vercel.app/",
     siteName: "matthewchristian.com",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "/favicon.png",
         width: 1920,
         height: 1080,
       },
